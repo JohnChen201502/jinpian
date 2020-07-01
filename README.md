@@ -1,3 +1,3 @@
 # 中国禁片
 <span  style="color:#CC0000;">请点击免翻墙访问：</span>
-<a href="https://cnvideo.tk">中国禁片</a>
+<a href="https://jpvideo.ml">中国禁片</a>
