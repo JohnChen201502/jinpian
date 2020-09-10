@@ -1,3 +1,3 @@
 # 中国禁片
 <span  style="color:#CC0000;">请点击免翻墙访问：</span>
-<a href="https://bilibi.gq/">中国禁片</a>
+<a href="https://bettertv.cf/">中国禁片</a>
