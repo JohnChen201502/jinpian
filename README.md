@@ -2,7 +2,7 @@
 <span  style="color:#CC0000;">请收藏本网页，点击即可免翻墙访问：</span>
 <b><a href="https://abcd3.cf/">中国禁片</a></b>
 </br></br>
-<span><a href="https://abcd3.cf/category/political/jiangfeng/">江锋时刻</a></span> | <span><a href="https://abcd3.cf/author/wenzhao/">文昭谈古论今</a></span> | <span><a href="https://abcd3.cf/author/zhangtianliang/">天亮时分</a></span>
+<span><a href="https://abcd3.cf/category/political/jiangfeng/">江锋时刻</a></span> | <span><a href="https://abcd3.cf/author/wenzhao/">文昭谈古论今</a></span> | <span><a href="https://abcd3.cf/author/zhangtianliang/">天亮时分</a></span> | <span><a href="https://abcd3.cf/category/political/weiyu/">薇羽看世間</a></span>
 </br>
 <span><a href="https://abcd3.cf/author/dayu/">新闻拍案惊奇</a></span> | <span><a href="https://abcd3.cf/author/limuyang/">新闻看点</a></span>
 </br>
