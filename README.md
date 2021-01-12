@@ -1,5 +1,5 @@
 # 中国禁片
-<span  style="color:#CC0000;">请收藏本网页，<b>国内的朋友</b>点击即可<b>免翻墙访问</b>：</span>
+<span  style="color:#CC0000;">请收藏本网页，<b>国内的朋友</b>点击即可<b style="color:red;">免翻墙访问</b>：</span>
 <b><a href="https://abcd3.cf/">中国禁片</a></b>
 </br>
 <span  style="color:#CC0000;"><b>海外的朋友</b>请访问主域名：</span>
