@@ -9,7 +9,7 @@
 </br>
 <span><a href="https://abcd3.cf/author/dayu/">新闻拍案惊奇</a></span> | <span><a href="https://abcd3.cf/author/limuyang/">新闻看点</a></span>
 </br>
-<span><a href="https://abcd3.cf/author/jiangguangyu/">新闻最潮点姜光宇</a></span> | <span><a href="https://abcd3.cf/author/chaguan/">老北京茶馆</a></span> | <span><a href="https://abcd3.cf/author/tianchao/">天潮脱口秀</a></span>
+<span><a href="https://abcd3.cf/author/jiangguangyu/">新闻最潮点姜光宇</a></span> | <span><a href="https://abcd3.cf/author/chaguan/">老北京茶馆</a></span> | <span><a href="https://abcd3.cf/category/movie/duanju/">时事小品</a></span> | <span><a href="https://abcd3.cf/author/tianchao/">天潮脱口秀</a></span>
 </br>
 
 </br>
