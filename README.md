@@ -1,4 +1,4 @@
-<div style="width:100%;"><a href="https://aa513.tk/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/logo-jp1-120.png?raw=true"/></a></div>
+<div style="width:100%;"><a href="https://aa513.tk/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/logo-zgjp.png?raw=true"/></a></div>
 <span  style="color:#CC0000;">请收藏本网页，<b>国内的朋友</b>点击即可<b><span style="color:red;">免翻墙访问</span></b>：</span>
 <b><a href="https://aa513.tk/">中国禁片</a></b> | <b><a href="https://aa513.tk/break-gfw/">中国禁片App</a></b>
 </br>
