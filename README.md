@@ -1,4 +1,4 @@
-<div style="width:100%;"><a href="https://fa513.site/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/logo-zgjp.png?raw=true"/></a></div>
+<div style="width:100%;"><a href="https://df425.site/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/logo-zgjp.png?raw=true"/></a></div>
 <span  style="color:#CC0000;">请收藏本网页，<b>国内的朋友</b>点击即可<b><span style="color:red;">免翻墙访问</span></b>：</span>
 <b><a href="https://fa513.site/">中国禁片</a></b> | <b><a href="https://fa513.site/break-gfw/">中国禁片App</a></b>
 </br>
