@@ -12,9 +12,7 @@
 
 
 </br>
- 【请点击安装】
- </br>
- <a href="https://j513.site/file/jp-pro-v1-1.apk">安卓App</a> | <a href="https://j513.site/file/webclip-jinpian/install.html">苹果App</a> | <a href="https://j513.site/file/%E4%B8%AD%E5%9B%BD%E7%A6%81%E7%89%87-win32-x64.zip">Win电脑软件</a>
+ 【请点击安装】 <a href="https://j513.site/file/jp-pro-v1-1.apk">安卓App</a> | <a href="https://j513.site/file/webclip-jinpian/install.html">苹果App</a> | <a href="https://j513.site/file/%E4%B8%AD%E5%9B%BD%E7%A6%81%E7%89%87-win32-x64.zip">Win电脑软件</a>
 </br> 
 </br> 
 <div align="center">© 中国禁片网 技术支持</div>
