@@ -1,15 +1,19 @@
-<div style="width:100%;"><a href="https://j513.site/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/logo-zgjp.png?raw=true"/></a></div>
-<span  style="color:#CC0000;">请收藏本网页，<b>国内的朋友</b>点击即可<b><span style="color:red;">免翻墙访问</span></b>：</span>
-<b><a href="https://j513.site/">中国禁片</a></b> | <b><a href="https://j513.site/break-gfw/">中国禁片App</a></b>
+
+
+ <p><b>请点击访问：</b></p>
+
+<div style="width:100%;background-color:#eee;"><a href="https://j513.site/" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-zgjp.png?raw=true"/></a></div>
+
 </br>
-<span  style="color:#CC0000;"><b>海外的朋友</b>请访问主域名：</span>
-<b><a href="https://jinpian.org/">中国禁片</a></b>
-</br></br>
-<span><a href="https://j513.site/author/jiangfeng/">江锋时刻</a></span> | <span><a href="https://j513.site/author/wenzhao/">文昭谈古论今</a></span> | <span><a href="https://j513.site/author/zhangtianliang/">天亮时分</a></span> | <span><a href="https://j513.site/category/political/weiyu/">薇羽看世間</a></span> | <span><a href="https://j513.site/category/political/xiaomin/">萧茗看世界</a></span> | <span><a href="https://j513.site/category/political/tangjingyuan/">远见快评 唐靖远</a></span>
+<div style="width:100%;"><a href="https://x513.fun/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-xtr.png?raw=true"/></a></div>
 </br>
-<span><a href="https://j513.site/author/dayu/">新闻拍案惊奇</a></span> | <span><a href="https://j513.site/author/limuyang/">新闻看点</a></span> | <span><a href="https://j513.site/category/news/tanghao/">世界的十字路口 唐浩</a></span>
+
+<div style="width:100%;"><a href="https://djy513.online/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-djy.png?raw=true"/></a></div>
+
+
 </br>
-<span><a href="https://j513.site/author/jiangguangyu/">新闻最潮点姜光宇</a></span> | <span><a href="https://j513.site/author/chaguan/">老北京茶馆</a></span> | <span><a href="https://j513.site/category/movie/duanju/">时事小品</a></span> | <span><a href="https://j513.site/author/tianchao/">天潮脱口秀</a></span>
-</br>
-<span><a href="https://j513.site/category/puzzle/wenzhaosixv/">文昭思绪飞扬</a></span> | <span><a href="https://j513.site/category/puzzle/weiyushiguang/">薇羽时光</a></span> 
-</br>
+ 【请点击安装】<a href="https://j513.site/file/jp-pro-v1-1.apk">安卓App</a> | <a href="https://j513.site/file/webclip-jinpian/install.html">苹果App</a> | <a href="https://j513.site/file/%E4%B8%AD%E5%9B%BD%E7%A6%81%E7%89%87-win32-x64.zip">Win电脑软件</a>
+</br> 
+</br> 
+<div align="center">© 中国禁片网 技术支持</div>
+
