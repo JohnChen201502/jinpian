@@ -1,9 +1,17 @@
-<p align="center"><b>请点击访问</b></p>
-<div style="width:100%;"><p align="center"><a href="https://santui.ga/"><img src="https://github.com/JohnChen201502/TD/blob/main/td-logo.png?raw=true"/></a></p></div>
+请点击访问：
+
+<div style="width:100%;background-color:#eee;"><a href="https://jw513.online/" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-zgjp.png?raw=true"/></a></div>
+
 </br>
+<div style="width:100%;"><a href="https://x513.fun/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-xtr.png?raw=true"/></a></div>
 </br>
-<p align="center"><b>点击安装：<a href="https://santui.ga/wp-content/uploads/2022/09/%E3%80%90%E5%85%A8%E7%90%83%E9%80%80%E5%85%9A%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83%E3%80%91%E5%AE%89%E5%8D%93%E7%89%881.0.apk">安卓App</a> | <a href="https://santui.ga/wp-content/uploads/2022/10/webclip-tuidang/install.html">苹果App</a> | <a href="https://santui.ga/wp-content/uploads/2022/09/%E3%80%90%E5%85%A8%E7%90%83%E9%80%80%E5%85%9A%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83%E3%80%91PC%E7%89%88.zip">Win电脑版软件</a>
-</b></p>
+
+<div style="width:100%;"><a href="https://j513.shop/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-djy.png?raw=true"/></a></div>
+
+</br>
+
+© 中国禁片网 技术支持
+
 <p align="center">若暂时访问不了，请勿删掉App，过一阵再尝试！</p>
 
 
